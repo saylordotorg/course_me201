@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME201: Fluid Mechanics"
+course_description: "An detailed examination of fluids and their properties, surveying flow regimes, dynamics and kinematics, Reynolds transport theorem, Navier-Stokes equations, dimensional analysis, boundary—layer theory, and compressible and incompressible flows."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ME201: Fluid Mechanics"
 --------------------------------------------
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME201: Fluid Mechanics"
+course_description: "An detailed examination of fluids and their properties, surveying flow regimes, dynamics and kinematics, Reynolds transport theorem, Navier-Stokes equations, dimensional analysis, boundary—layer theory, and compressible and incompressible flows."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Fluid Statics and Flow Phenomena** <span
 id="1"></span> 
 *This first unit introduces the basic concepts you will need to know in

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME201: Fluid Mechanics"
+course_description: "An detailed examination of fluids and their properties, surveying flow regimes, dynamics and kinematics, Reynolds transport theorem, Navier-Stokes equations, dimensional analysis, boundary—layer theory, and compressible and incompressible flows."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Compressible Flow** <span id="7"></span> 
 *In previous units, we have not considered compressibility as
 significant; it is generally not significant for liquid flows or for

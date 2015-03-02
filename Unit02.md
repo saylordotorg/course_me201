@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME201: Fluid Mechanics"
+course_description: "An detailed examination of fluids and their properties, surveying flow regimes, dynamics and kinematics, Reynolds transport theorem, Navier-Stokes equations, dimensional analysis, boundary—layer theory, and compressible and incompressible flows."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Fluid Dynamics and Kinematics** <span id="2"></span> 
 *In this unit, we will take a look at fluids in motion.  In particular,
 we will set the stage for later applications by providing fundamental

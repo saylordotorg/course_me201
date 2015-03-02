@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME201: Fluid Mechanics"
+course_description: "An detailed examination of fluids and their properties, surveying flow regimes, dynamics and kinematics, Reynolds transport theorem, Navier-Stokes equations, dimensional analysis, boundary—layer theory, and compressible and incompressible flows."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Finite and Differential Control Volume Analysis** <span
 id="3"></span> 
 *In Unit 2, you learned some fundamental definitions and learned to

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME201: Fluid Mechanics"
+course_description: "An detailed examination of fluids and their properties, surveying flow regimes, dynamics and kinematics, Reynolds transport theorem, Navier-Stokes equations, dimensional analysis, boundary—layer theory, and compressible and incompressible flows."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Application of Differential Analysis** <span id="4"></span> 
 *Application of differential analysis allows the determination of how
 properties such as fluid velocity and pressure vary within a volume of

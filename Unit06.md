@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME201: Fluid Mechanics"
+course_description: "An detailed examination of fluids and their properties, surveying flow regimes, dynamics and kinematics, Reynolds transport theorem, Navier-Stokes equations, dimensional analysis, boundary—layer theory, and compressible and incompressible flows."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Analysis of Simple Flow Geometries (Pipe Flow and Boundary
 Layers)** <span id="6"></span> 
 *In this unit, you will learn about the details of two simple flow

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME201: Fluid Mechanics"
+course_description: "An detailed examination of fluids and their properties, surveying flow regimes, dynamics and kinematics, Reynolds transport theorem, Navier-Stokes equations, dimensional analysis, boundary—layer theory, and compressible and incompressible flows."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Dimensional Analysis** <span id="5"></span> 
 *How does one build a small-scale wind tunnel experiment to determine if
 an airplane design on the large scale is practical?  Should one use the
