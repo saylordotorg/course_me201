@@ -183,3 +183,4 @@ machine.
 - [Unit 6](https://legacy.saylor.org/me201/Unit06/)
 - [Unit 7](https://legacy.saylor.org/me201/Unit07/)
 - [Unit 8](https://legacy.saylor.org/me201/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME201/ME201-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME201/ME201-FinalExam-Answers.html)
