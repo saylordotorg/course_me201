@@ -73,9 +73,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: MIT: Course 801: “8.01 Quiz 9, Fall 1994” and “8.01
     Quiz 9 Solutions, Fall 1994”**
     Link: MIT: Course 801: “[8.01 Quiz 9, Fall
-    1994](http://www.saylor.org/site/wp-content/uploads/2012/09/me102.pdf)”
+    1994](https://resources.saylor.org/archived/wp-content/uploads/2012/09/me102.pdf)”
     (PDF) and “[8.01 Quiz 9 Solutions, Fall
-    1994](http://www.saylor.org/site/wp-content/uploads/2012/09/me102-solutions.pdf)”
+    1994](https://resources.saylor.org/archived/wp-content/uploads/2012/09/me102-solutions.pdf)”
     (PDF)  
       
      Instructions: Please click on the first link to Quiz 9 Problem \#3
