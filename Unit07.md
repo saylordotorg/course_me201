@@ -55,7 +55,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: MIT: Professor Professor Anette Hosoi’s Lectures Notes on
     Compressible Fluid Dynamics: [“Lecture 2: Thermo, Ideal Gases,
     Steady Isentropic Flow, Stagnation
-    State”](http://www.saylor.org/site/wp-content/uploads/2011/07/ME201-7.3.pdf) (PDF)  
+    State”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME201-7.3.pdf) (PDF)  
         
      Instructions: Please click on the “PDF” hyperlink for Lecture 2 to
     download the file.  Read the entire document (8 pages).  This
@@ -77,7 +77,7 @@ id="7.3"></span> 
     Link: MIT: Professor Anette Hosoi’s Lectures Notes on Compressible
     Fluid Dynamics: [“Lecture 4: Energy Equation, Entropy Equation, Flow
     with Friction, Fanno
-    Line”](http://www.saylor.org/site/wp-content/uploads/2011/07/ME201-7.4.pdf) (PDF)  
+    Line”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME201-7.4.pdf) (PDF)  
         
      Instructions: Please click on the “PDF” hyperlink for Lecture 4 to
     download the file.  Read the entire document (7 pages).  This
